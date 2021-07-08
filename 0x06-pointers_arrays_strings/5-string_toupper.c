@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
   * string_toupper - Change string to uppercase.
   * @str: The input string
