@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
   * _strchr - locate character in string
   * @s: source string
